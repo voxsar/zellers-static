@@ -4,6 +4,7 @@ import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import Image from "next/image";
 import Link from "next/link";
+// Image import kept for the logo in the footer
 import Navbar from "../components/Navbar";
 import winnersData from "../../src/data/winners.json";
 
@@ -26,7 +27,6 @@ const RANK_LABELS = ["🥇 1st Place", "🥈 2nd Place", "🥉 3rd Place"];
 const CROWN = ["👑", "🏅", "🏅", "", "", "", "", "", "", ""];
 
 function WinnerCard({ winner, delay = 0 }: { winner: Winner; delay?: number }) {
-  const [imgError, setImgError] = useState(false);
   const isTop3 = winner.rank <= 3;
   const colorClass = isTop3 ? RANK_COLORS[winner.rank - 1] : "from-purple-700 to-indigo-800";
   const isMale = winner.gender === "male";
@@ -47,22 +47,18 @@ function WinnerCard({ winner, delay = 0 }: { winner: Winner; delay?: number }) {
       {/* Rank badge */}
       <div className={`absolute top-0 left-0 right-0 h-1.5 bg-gradient-to-r ${colorClass}`} />
 
-      {/* Image */}
+      {/* Image — plain img tag so aborted requests auto-retry without triggering permanent error state */}
       <div className="relative w-full aspect-[4/5] overflow-hidden bg-[#1a0f4e]">
-        {!imgError ? (
-          <Image
-            src={winner.localImage}
-            alt={winner.displayName}
-            fill
-            sizes="(max-width:640px) 50vw, (max-width:1024px) 33vw, 20vw"
-            className="object-cover"
-            onError={() => setImgError(true)}
-          />
-        ) : (
-          <div className={`absolute inset-0 bg-gradient-to-br ${isMale ? "from-blue-800 to-indigo-900" : "from-pink-800 to-purple-900"} flex items-center justify-center`}>
-            <span className="text-4xl font-black text-white/20">{winner.displayName.slice(0, 2).toUpperCase()}</span>
-          </div>
-        )}
+        <div className={`absolute inset-0 bg-gradient-to-br ${isMale ? "from-blue-800 to-indigo-900" : "from-pink-800 to-purple-900"} flex items-center justify-center`}>
+          <span className="text-4xl font-black text-white/10">{winner.displayName.slice(0, 2).toUpperCase()}</span>
+        </div>
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img
+          src={winner.localImage}
+          alt={winner.displayName}
+          className="absolute inset-0 w-full h-full object-cover"
+          loading="eager"
+        />
         <div className="absolute inset-0 bg-gradient-to-t from-[#0f0828]/90 via-[#0f0828]/10 to-transparent" />
 
         {/* Crown / rank overlay */}
