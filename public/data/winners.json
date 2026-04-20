@@ -1,0 +1,186 @@
+{
+  "male": [
+    {
+      "rank": 1,
+      "displayName": "Nireche SLV",
+      "realName": "Niresh Silva",
+      "gender": "male",
+      "flavor": "COOKIE CREAM FILLED CHOCOLATE",
+      "voteCount": 389,
+      "localImage": "/winners/male/1_Nireche_SLV_94777354531.png"
+    },
+    {
+      "rank": 2,
+      "displayName": "RJ Saksi",
+      "realName": "Saksivarnan",
+      "gender": "male",
+      "flavor": "RED VELVET COOKIE CREAM FILLED WHITE CHOCOLATE",
+      "voteCount": 337,
+      "localImage": "/winners/male/2_RJ_Saksi_94775050220_1776283704647.png"
+    },
+    {
+      "rank": 3,
+      "displayName": "Prashan",
+      "realName": "Prashan Warnakulasooriya",
+      "gender": "male",
+      "flavor": "COOKIE CREAM FILLED CHOCOLATE",
+      "voteCount": 102,
+      "localImage": "/winners/male/3_Prashan_94777973266.png"
+    },
+    {
+      "rank": 4,
+      "displayName": "Prince D",
+      "realName": "Deilon Waijayantha",
+      "gender": "male",
+      "flavor": "COOKIE CREAM FILLED CHOCOLATE",
+      "voteCount": 55,
+      "localImage": "/winners/male/4_Prince_D_94713299718_1776166346372.png"
+    },
+    {
+      "rank": 5,
+      "displayName": "Miyuru",
+      "realName": "Miyuru",
+      "gender": "male",
+      "flavor": "STRAWBERRY CREAM FILLED CHOCOLATE",
+      "voteCount": 46,
+      "localImage": "/winners/male/5_Miyuru_94774395913_1776011533162.png"
+    },
+    {
+      "rank": 6,
+      "displayName": "The Black Eyes",
+      "realName": "Thevan Methsan",
+      "gender": "male",
+      "flavor": "MIX NUT CREAM FILLED CHOCOLATE",
+      "voteCount": 44,
+      "localImage": "/winners/male/6_The_Black_Eyes_94769887629_1776077977197.png"
+    },
+    {
+      "rank": 7,
+      "displayName": "Fernanders",
+      "realName": "Lakindu Pabasara",
+      "gender": "male",
+      "flavor": "COCONUT CREAM FILLED CHOCOLATE",
+      "voteCount": 42,
+      "localImage": "/winners/male/7_Fernanders_94752330136.png"
+    },
+    {
+      "rank": 8,
+      "displayName": "The Perl Crown Prince",
+      "realName": "Vimukthi Perera",
+      "gender": "male",
+      "flavor": "RED VELVET COOKIE CREAM FILLED WHITE CHOCOLATE",
+      "voteCount": 30,
+      "localImage": "/winners/male/8_The_Perl_Crown_Prince_94706662223.png"
+    },
+    {
+      "rank": 9,
+      "displayName": "Anji",
+      "realName": "Anjana Chathranga",
+      "gender": "male",
+      "flavor": "PISTACHIO & KUNAFA CREAM FILLED CHOCOLATE",
+      "voteCount": 24,
+      "localImage": "/winners/male/9_Anji_94753747255.png"
+    },
+    {
+      "rank": 10,
+      "displayName": "Kalindu",
+      "realName": "Kalindu Shehash",
+      "gender": "male",
+      "flavor": "COCONUT CREAM FILLED CHOCOLATE",
+      "voteCount": 23,
+      "localImage": "/winners/male/10_Kalindu_94751183980.png"
+    }
+  ],
+  "female": [
+    {
+      "rank": 1,
+      "displayName": "Zellerzy",
+      "realName": "Lakma Marasinghe",
+      "gender": "female",
+      "flavor": "PISTACHIO & KUNAFA CREAM FILLED CHOCOLATE",
+      "voteCount": 379,
+      "localImage": "/winners/female/1_Zellerzy_94772236494_1776102011940.png"
+    },
+    {
+      "rank": 2,
+      "displayName": "Golden Sunshine",
+      "realName": "Vidurshiga Vijayakumaran",
+      "gender": "female",
+      "flavor": "PISTACHIO & KUNAFA CREAM FILLED CHOCOLATE",
+      "voteCount": 331,
+      "localImage": "/winners/female/2_Golden_Sunshine_94775007730_1776084489813.png"
+    },
+    {
+      "rank": 3,
+      "displayName": "Ceylon Princess",
+      "realName": "Punya Hansini Paboda Dissanayake",
+      "gender": "female",
+      "flavor": "PISTACHIO & KUNAFA CREAM FILLED CHOCOLATE",
+      "voteCount": 310,
+      "localImage": "/winners/female/3_Ceylon_Princess_94764058589.png"
+    },
+    {
+      "rank": 4,
+      "displayName": "Queen Anna",
+      "realName": "Anna Michael",
+      "gender": "female",
+      "flavor": "PISTACHIO & KUNAFA CREAM FILLED CHOCOLATE",
+      "voteCount": 162,
+      "localImage": "/winners/female/4_Queen_Anna_94701280899.png"
+    },
+    {
+      "rank": 5,
+      "displayName": "Nadee",
+      "realName": "Nadee Dilshani",
+      "gender": "female",
+      "flavor": "PISTACHIO & KUNAFA CREAM FILLED CHOCOLATE",
+      "voteCount": 157,
+      "localImage": "/winners/female/5_Nadee_94770212510_1776083046171.png"
+    },
+    {
+      "rank": 6,
+      "displayName": "The God Prince",
+      "realName": "Yasiru Sulochana",
+      "gender": "female",
+      "flavor": "STRAWBERRY CREAM FILLED CHOCOLATE",
+      "voteCount": 88,
+      "localImage": "/winners/female/6_The_God_Prince_94740593347_1776240376057.png"
+    },
+    {
+      "rank": 7,
+      "displayName": "Anjalee",
+      "realName": "Anjalee Nimasha Gunarathna",
+      "gender": "female",
+      "flavor": "COOKIE CREAM FILLED CHOCOLATE",
+      "voteCount": 49,
+      "localImage": "/winners/female/7_Anjalee_94742149568.png"
+    },
+    {
+      "rank": 8,
+      "displayName": "Ivory Cocoa",
+      "realName": "Abhinandi Perera",
+      "gender": "female",
+      "flavor": "RED VELVET COOKIE CREAM FILLED WHITE CHOCOLATE",
+      "voteCount": 48,
+      "localImage": "/winners/female/8_Ivory_cocoa_94764374418_1776102452662.png"
+    },
+    {
+      "rank": 9,
+      "displayName": "The Pearl of Avurudu",
+      "realName": "Andriya Sasaki",
+      "gender": "female",
+      "flavor": "MIX NUT CREAM FILLED CHOCOLATE",
+      "voteCount": 25,
+      "localImage": "/winners/female/9_The_pearl_of_avurudu_94704859718.png"
+    },
+    {
+      "rank": 10,
+      "displayName": "Duvini",
+      "realName": "Duvini Gamage",
+      "gender": "female",
+      "flavor": "PISTACHIO & KUNAFA CREAM FILLED CHOCOLATE",
+      "voteCount": 23,
+      "localImage": "/winners/female/10_Duvini_94766206399.png"
+    }
+  ]
+}
