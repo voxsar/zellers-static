@@ -27,7 +27,7 @@ export default function Navbar() {
 			{/* Nav Actions */}
 			<div className="flex items-center gap-1.5 sm:gap-3">
 				<Link
-					href="/gallery"
+					href="/vote"
 					className="text-xs sm:text-sm font-bold tracking-wide text-white/80 hover:text-yellow-400 transition-colors duration-200 px-2 hidden sm:block"
 				>
 					GALLERY

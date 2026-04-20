@@ -139,7 +139,7 @@ export default function HeroSection() {
 							<span className="absolute inset-0 bg-white/20 translate-y-full group-hover:translate-y-0 transition-transform duration-300 rounded-full ease-out" />
 						</Link>
 						<Link
-							href="/gallery"
+							href="/vote"
 							className="w-full sm:w-auto text-xs sm:text-sm font-bold tracking-widest text-white border-2 border-white/30 bg-white/10 rounded-full px-5 sm:px-8 py-3 sm:py-4 hover:bg-white/20 hover:border-white/50 transition-all duration-300 backdrop-blur-md shadow-[0_4px_15px_rgba(0,0,0,0.1)] whitespace-nowrap inline-flex items-center justify-center"
 						>
 							VIEW GALLERY →
