@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 420" fill="none">
+  <!-- Head -->
+  <ellipse cx="100" cy="48" rx="26" ry="28" fill="#1a1a1a"/>
+  <!-- Neck -->
+  <rect x="90" y="72" width="20" height="18" rx="4" fill="#1a1a1a"/>
+  <!-- T-shirt body -->
+  <path d="M55 90 L68 82 Q100 96 132 82 L145 90 L150 160 L50 160 Z" fill="#1a1a1a"/>
+  <!-- Left sleeve -->
+  <path d="M55 90 L45 90 L38 130 L55 130 Z" fill="#1a1a1a"/>
+  <!-- Right sleeve -->
+  <path d="M145 90 L155 90 L162 130 L145 130 Z" fill="#1a1a1a"/>
+  <!-- Left arm -->
+  <path d="M45 130 L38 130 L36 195 L50 195 L52 130 Z" fill="#1a1a1a"/>
+  <!-- Right arm -->
+  <path d="M155 130 L162 130 L164 195 L150 195 L148 130 Z" fill="#1a1a1a"/>
+  <!-- Left hand -->
+  <ellipse cx="43" cy="200" rx="8" ry="10" fill="#1a1a1a"/>
+  <!-- Right hand -->
+  <ellipse cx="157" cy="200" rx="8" ry="10" fill="#1a1a1a"/>
+  <!-- Pants waist -->
+  <rect x="52" y="158" width="96" height="12" rx="3" fill="#111"/>
+  <!-- Left leg -->
+  <path d="M52 168 L52 300 L86 300 L100 168 Z" fill="#111"/>
+  <!-- Right leg -->
+  <path d="M148 168 L148 300 L114 300 L100 168 Z" fill="#111"/>
+  <!-- Left shin -->
+  <rect x="54" y="295" width="30" height="65" rx="8" fill="#111"/>
+  <!-- Right shin -->
+  <rect x="116" y="295" width="30" height="65" rx="8" fill="#111"/>
+  <!-- Left shoe -->
+  <ellipse cx="69" cy="364" rx="22" ry="9" fill="#0a0a0a"/>
+  <!-- Right shoe -->
+  <ellipse cx="131" cy="364" rx="22" ry="9" fill="#0a0a0a"/>
+</svg>
