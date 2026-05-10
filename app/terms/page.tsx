@@ -19,7 +19,7 @@ const SECTIONS = [
 	},
 	{
 		title: "4. Voting",
-		body: "Each verified participant may cast one vote. Votes cannot be transferred. Zellers reserves the right to disqualify entries suspected of fraudulent voting activity. Minimum required votes to be eligible for the AI අවුරුදු කුමරා and කුමරිය contest is 1,000 votes.",
+		body: "Each verified participant may cast one vote. Votes cannot be transferred. Zellers reserves the right to disqualify entries suspected of fraudulent voting activity. ",
 	},
 	{
 		title: "5. Prizes",

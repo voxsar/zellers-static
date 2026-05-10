@@ -557,7 +557,7 @@ You're one step closer to winning LKR 75,000! 💰👑
 
 Voting closes on April 19th at 9:00 A.M.
 
-(Minimum required votes to be eligible for the AI අවුරුදු කුමරා and කුමරිය contest is 1,000 votes.)
+()
 
 Your current rank: #[rank] ([gender]) with [votes] votes`}
 						</div>
